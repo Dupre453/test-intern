@@ -1,0 +1,19 @@
+.wrapper-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #151317;
+  width: 170px;
+  height: 40px;
+  margin-top: 56px;
+  cursor: pointer;
+  border-radius: 8px;
+
+  span {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21.79px;
+    color: #151317;
+    padding-right: 8px;
+  }
+}
